@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeff Anthony D. Bernales</h1>
-<h3 align="center">A student developer doing code for fun</h3>
+<h3 align="center">A developer just doing code for fun</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buotangbata" alt="buotangbata" /></a> </p>
 
